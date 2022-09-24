@@ -1,5 +1,4 @@
 # DevelopmentTool-Python-Deobfuscator
-"https://development-tools.net/python-obfuscator/" Deobfuscator
 obfuscating your python source code with Development-tools.net takes just a few seconds.
 and deobfuscating takes just a few seconds.
 
