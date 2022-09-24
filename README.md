@@ -5,7 +5,7 @@
 - 1. Save the code you want to decrypt to a file
 
 - import base64, codecs
-- 
+
   magic = ''
   
   love = ''
