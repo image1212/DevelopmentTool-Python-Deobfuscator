@@ -4,7 +4,9 @@
 # How to use
 - 1. Save the code you want to decrypt to a file
 
-- import base64, codecs
+- The code this should be the type.
+
+  import base64, codecs
 
   magic = ''
   
@@ -20,7 +22,7 @@
   
   eval(compile(base64.b64decode(eval('')),'<string>','exec'))
   
-  The code this should be the type.
+
 
 - 2. delete eval(compile(base64.b64decode(eval('')),'<string>','exec'))
   3. run main.py
