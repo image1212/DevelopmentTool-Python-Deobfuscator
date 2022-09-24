@@ -27,3 +27,7 @@
 - 2. delete eval(compile(base64.b64decode(eval('')),'<string>','exec'))
   3. run main.py
   4. copy
+
+# bruh
+
+- "prevent an attacker from reverse engineering a proprietary software program."
