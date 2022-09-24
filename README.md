@@ -2,7 +2,7 @@
 "https://development-tools.net/python-obfuscator/" Deobfuscator
 
 # How to use
-- 1. Save the code you want to decrypt to a file
+- 1. Save the code you want to decrypt to a code.py
 
 - The code this should be the type.
 
